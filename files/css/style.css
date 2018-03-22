@@ -2401,6 +2401,7 @@ div .column-section:first-child { margin-top: 0px; }
 .three-sixth { width: calc(50% - 37.4px); }
 .four-sixth { width: calc(66.66% - 41.6px); }
 .five-sixth { width: calc(83.33% - 45.7px); }
+.custom-ratio{ width: calc(25% - 28px); }
 
 [class*='wrapper'] .one-full { width: 100%; float: none; margin-right: 0; }
 [class*='wrapper'] .one-half { width: calc(50% - 12.5px); }
